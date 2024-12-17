@@ -21,6 +21,10 @@
 
 // alert("Hello... I can run JS through my web browser's console")
 
+// queastion 6
+
+// document.getElementById("alert-button").addEventListener("click", function() { alert("hey hello this is salman");});
+
 
 
 
