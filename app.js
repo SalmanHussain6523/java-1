@@ -6,7 +6,7 @@
 
 // question 2
 
-// alert("Error! Please enter a valid password.")
+//document.write("Error! Please enter a valid password.");
 
 // queastion 3
 
